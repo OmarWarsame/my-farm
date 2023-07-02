@@ -1,0 +1,6 @@
+sonar.projectKey=sonar-my-farm
+
+
+sqa_2ab986441cceb3a6c24ce506581c81454e0645aa
+
+    
